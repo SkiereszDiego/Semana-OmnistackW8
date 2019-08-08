@@ -1,0 +1,2 @@
+# Semana-OmnistackW8
+Uma semana para você descobrir o poder da melhor stack do mercado e levar suas aplicações e sua carreira de programador para o próximo nível. Durante essa semana nós vamos construir juntos uma aplicação do zero utilizando NodeJS no back-end, ReactJS no front-end e React Native no mobile, para você descobrir na prática todas as vantagens dessa stack e porque essas tecnologias fazem tanto sentido juntas.
